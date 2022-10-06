@@ -22,5 +22,7 @@
 
 
 ### Key publications
+- Sun, Zhongtian and Harit, Anoushka and Cristea, Alexandra and Yu, Jialin and Shi, Lei and Al Moubayed, Noura (2022) 'Contrastive Learning with Heterogeneous Graph Attention Networks on Short Text Classification.', IEEE International Joint Conference on Neural Network (IJCNN2022) Padua, Italy, 18-23 Jul 2022.([PDF](https://dro.dur.ac.uk/36856/1/36856.pdf?DDD4+DDO65+stwd78+vbdv77))
+
 - Sun, Zhongtian and Harit, Anoushka and Yu, Jialin and Cristea, Alexandra and Al Moubayed, Noura (2021) 'A Generative Bayesian Graph Attention Network for Semi-supervised Classification on Scarce Data.', IEEE International Joint Conference on Neural Network (IJCNN2021) Virtual, 18-22 Jul 2021.([PDF](https://dro.dur.ac.uk/33389/1/33389.pdf?DDD4+DDO65+lkjs74+vbdv77))
 - Gkiokas, A., Cristea, A.I.: Cognitive agents and machine learning by example: representation with conceptual graphs. Comput. Intell. 34(2), 603-634 (2018). ([PDF](https://dro.dur.ac.uk/29209/1/29209.pdf))
